@@ -1,1 +1,16 @@
 
+anden@DESKTOP-JJOF116 MINGW64 ~/IdeaProjects/GitLocal/javaVerktyg/JVlabb1 (master)
+$ git log
+commit 4a67a1075ffd1854b426bd064ba43fba423c95f4 (HEAD -> master, origin/master, origin/br)
+Author: andreas nehl <andenk@hotmail.se>
+Date:   Thu Nov 5 15:26:34 2020 +0100
+
+    te
+
+commit 9c8483d40c0a623026dbf38a0114939214c08d0a
+Author: andreas nehl <andenk@hotmail.se>
+Date:   Thu Nov 5 15:23:19 2020 +0100
+
+    Gitignor and readme
+
+anden@DESKTOP-JJOF116 MINGW64 ~/IdeaProjects/GitLocal/javaVerktyg/JVlabb1 (master)
